@@ -6,6 +6,12 @@
    <!-- <Text text="Hello Worldllllllllllllllllllllllllllllllllllllll"/> -->
 
     <Button text="hello" press ="onshow"/>
+    <Input 
+            value= "{/rec/name}"
+            description="hello {/rec/name}"
+            valueLiveUpdate= "true"
+            width="60%"/>
+
         
     
 </mvc:View>
