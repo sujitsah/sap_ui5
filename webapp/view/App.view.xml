@@ -5,7 +5,7 @@
 
    <!-- <Text text="Hello Worldllllllllllllllllllllllllllllllllllllll"/> -->
 
-    <Button text="hello" press ="onshow"/>
+    <Button text="{i18n>showHelloButton}" press ="onshow"/>
     <Input 
             value= "{/rec/name}"
             description="hello {/rec/name}"
