@@ -1,0 +1,1 @@
+jQuery.sap.declare("sap.ui.demo.ui5.Component-preload");
